@@ -1,0 +1,20 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 17,
+	"highlight_modified_tabs": true,
+	"hightlight_line": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"show_full_path": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"word_wrap": true
+}
